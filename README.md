@@ -13,10 +13,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img style="width:35px; height:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />·
-  <img style="width:35px; height:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />·
-  <img style="width:35px; height:35px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />·
-  <img style="width:35px; height:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />·
+  <img style="width:35px; height:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img style="width:35px; height:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img style="width:35px; height:35px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img style="width:35px; height:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img style="width:35px; height:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
  
